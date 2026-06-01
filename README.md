@@ -1,12 +1,97 @@
 #  About Me:
- I’m currently working on<br>AI-powered healthcare dashboards focused on oncology — drug exposure tracking, toxicity monitoring, lab trend analysis, and treatment delay insights using Python, Streamlit, and ML basics. I’m looking to collaborate on<br>Healthcare AI/ML projects, clinical data analytics, oncology-focused digital health tools, and open-source projects that improve patient outcomes. I’m looking for help with<br>Clinical datasets (oncology/pharmacovigilance), ML model optimization for healthcare use cases, and best practices for deploying healthcare dashboards securely. I’m currently learning<br>Python for data science, Streamlit, basic machine learning, clinical data analysis, and how to bridge clinical pharmacy knowledge with AI. Ask me about<br>Oncology pharmacy, chemotherapy monitoring, ADRs, clinical workflows, healthcare dashboards, and using AI in real hospital settings.I’m an oncology clinical pharmacist who’s turning real hospital problems into AI solutions
-Current Research Interests
-• Precision Oncology
-• Cancer Genomics
-• Clinical Decision Support Systems
-• Molecular Tumor Boards
-• Real World Evidence
-• AI in Oncology
+ # Dr. Kalyan Kumar Thallapudi
+
+### Oncology Clinical Pharmacist | Precision Oncology | Cancer Genomics | Clinical Decision Support | AI in Healthcare
+
+
+## About Me
+
+I am a Pharm.D graduate and Oncology Clinical Pharmacist with clinical experience in adult and pediatric oncology at Basavatarakam Indo-American Cancer Hospital & Research Institute, Hyderabad, India.
+
+Since January 2022, I have worked as part of multidisciplinary oncology teams involved in chemotherapy management, medication safety, treatment protocol verification, adverse drug reaction monitoring, patient counselling, and supportive oncology care.
+
+My experience spans both solid tumors and hematological malignancies, including breast cancer, head and neck cancers, colorectal cancers, bone tumors, acute leukemias, lymphomas, and pediatric cancers.
+
+Working closely with cancer patients, caregivers, oncologists, and healthcare teams has provided first hand insight into the clinical, operational, and decision making challenges encountered throughout the cancer care continuum.
+
+These experiences inspired my interest in Precision Oncology, Cancer Genomics, Clinical Decision Support Systems, Artificial Intelligence, and Translational Cancer Research.
+
+
+## Professional Interests
+
+* Precision Oncology
+* Cancer Genomics
+* Molecular Oncology
+* Clinical Decision Support Systems
+* Real-World Evidence
+* AI in Healthcare
+* Translational Cancer Research
+* Oncology Outcomes Research
+* Digital Health Innovation
+
+## Current Learning Focus
+
+* Python for Healthcare Applications
+* Data Analytics
+* Machine Learning Fundamentals
+* Cancer Genomics
+* Variant Interpretation
+* Molecular Tumor Boards
+* Real-World Data Analysis
+* Computational Oncology
+
+
+## Clinical Innovation Projects
+
+### AI Toxicity Alert System
+
+Conceptual framework for identifying treatment-related toxicities through laboratory trends, treatment history, and clinical monitoring data to support earlier clinical intervention.
+
+### OncoContinuum AI
+
+AI-supported continuity-of-care platform designed to improve patient monitoring, follow-up, survivorship support, and long-term engagement throughout the cancer journey.
+
+### AI-Assisted Chemotherapy Workflow Optimization
+
+Exploration of AI-supported approaches to improve treatment scheduling, resource utilization, and continuity of oncology care delivery.
+
+
+## Core Competencies
+
+### Clinical Oncology
+
+* Oncology Pharmacy Practice
+* Chemotherapy Management
+* Medication Safety
+* Adverse Drug Reaction Monitoring
+* Supportive Care
+* Patient Counselling
+* Protocol Compliance
+* Multidisciplinary Care
+
+### Technical Skills
+
+* Python
+* Pandas
+* NumPy
+* Basic SQL
+* Data Visualization
+* Git & GitHub
+
+### Developing Skills
+
+* Machine Learning
+* Cancer Genomics
+* Precision Oncology
+* Variant Annotation
+* Clinical Data Analytics
+* Computational Oncology
+
+
+## Career Vision
+
+To contribute to the development of data-driven, clinically meaningful solutions that improve cancer diagnosis, treatment decision making, toxicity management, and patient outcomes through the integration of oncology, genomics, artificial intelligence, and precision medicine.
+
 
 
 ## Socials:
